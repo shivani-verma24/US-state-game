@@ -5,7 +5,7 @@ screen = turtle.Screen()
 screen.title("U.S. States Game")
 
 map = "blank_states_img.gif"
-screen.addshape(map)  # adding a new shape so that obj can use it
+screen.addshape(map)  
 
 turtle.shape(map)
 
